@@ -1,0 +1,33 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Oo]bj/
+[Mm]emoryCaptures/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+.vscode/
+
+# Auto-generated VS/JetBrains project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS-specific
+.DS_Store
+Thumbs.db
+.vs
